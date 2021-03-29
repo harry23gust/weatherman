@@ -1,0 +1,81 @@
+body{
+    font-family: 'Poppins', sans-serif;
+  }
+
+  .card-body a {
+    word-break: break-all;
+  }
+
+  .articleHeadline {
+    line-height: 1.5;
+  }
+
+  #search-cities-div{
+    width: 40%;
+   }
+
+.jumbotron {
+  margin-top: 20px;
+}
+
+#current-weather-data{
+    border: solid 2px #0a0b0e;
+    margin-top: 20px;
+    float: left;
+  }
+
+  #display-name{
+    font-size: 50px;
+    margin-bottom:10px;
+ 
+  }
+
+  .city{
+      width:200px;
+  }
+
+  .card {
+      height: 96%
+  }
+
+  #forecast-section{
+      height: 50%;
+  }
+
+  .forecast-box-spacing{
+      height: 100%;
+      margin: 5px; 
+      padding: 20px;
+  }
+
+  .forecast-box{
+      padding: 40px;
+  }
+
+  .forecast-container{
+      float: right;
+  }
+
+  .parameters-div {
+      float: left;
+  }
+
+  #display-date{
+      font-size: small;
+  }
+  
+  .forecast-box{
+    background-color: #031442
+  }
+
+  //.background-image{
+    background-image: url("assets/weather-pic.png");
+  }
+
+  header {
+      background-color: rgb(221, 224, 243);
+      color: blue;
+      font-style: italic;
+
+      font-family: Georgia, 'Times New Roman', Times, serif;
+  }

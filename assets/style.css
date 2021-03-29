@@ -68,7 +68,7 @@ body{
     background-color: #031442
   }
 
-  //.background-image{
+  .background-image{
     background-image: url("assets/weather-pic.png");
   }
 
